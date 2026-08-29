@@ -1,0 +1,49 @@
+'''      BACKEND      
+cd "C:\Users\Rohit Kumar\OneDrive\Desktop\SIH 260124\urban-sensing-platform"
+venv\Scripts\Activate.ps1
+python backend\api.py '''
+
+'''    STREAMLIT 
+ cd "C:\Users\Rohit Kumar\OneDrive\Desktop\SIH 260124\urban-sensing-platform"
+venv\Scripts\Activate.ps1
+streamlit run mobile_app.py  '''
+
+''' WEB DASHBOARD 
+cd "C:\Users\Rohit Kumar\OneDrive\Desktop\SIH 260124\urban-sensing-platform"
+venv\Scripts\Activate.ps1
+streamlit run dashboard\app.py
+'''
+
+''' ONBOARD
+cd "C:\Users\Rohit Kumar\OneDrive\Desktop\SIH 260124\urban-sensing-platform"
+venv\Scripts\Activate.ps1
+python onboard\main.py
+ '''
+''' 
+📌 Services & URLs
+
+
+Service	     Command	    URL
+
+Backend API   	python backend\api.py	http://localhost:8000
+Swagger UI	   (Auto)	http://localhost:8000/docs
+Mobile App  	streamlit run mobile_app.py	http://localhost:8501
+Web Dashboard  	streamlit run dashboard\app.py	http://localhost:8502
+Onboard     	python onboard\main.py	(Terminal)
+📌 Agar venv\Scripts\Activate.ps1 Error Aaye
+bash
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+venv\Scripts\Activate.ps1
+📌 Quick Commands (Copy-Paste)
+bash
+# 1. Backend
+cd "C:\Users\Rohit Kumar\OneDrive\Desktop\SIH 260124\urban-sensing-platform" && venv\Scripts\Activate.ps1 && python backend\api.py
+
+# 2. Mobile App
+cd "C:\Users\Rohit Kumar\OneDrive\Desktop\SIH 260124\urban-sensing-platform" && venv\Scripts\Activate.ps1 && streamlit run mobile_app.py
+
+# 3. Dashboard
+cd "C:\Users\Rohit Kumar\OneDrive\Desktop\SIH 260124\urban-sensing-platform" && venv\Scripts\Activate.ps1 && streamlit run dashboard\app.py
+Copy-paste karo aur run karo! 😊
+
+'''
