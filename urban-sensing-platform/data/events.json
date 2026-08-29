@@ -1,51 +1,2790 @@
 [
   {
-    "timestamp": "2026-08-28T12:00:00",
+    "timestamp": "2026-08-29T15:15:33.293452",
     "bus_id": "BUS-001",
     "event_type": "object_detection",
-    "latitude": 19.076,
-    "longitude": 72.8777,
+    "latitude": 19.07601,
+    "longitude": 72.87771000000001,
     "objects": [
-      "car",
-      "person"
+      "stop sign"
     ],
-    "road_defects": [
-      "pothole"
-    ],
-    "location": "19.076, 72.8777"
+    "road_defects": [],
+    "location": "19.07601, 72.87771000000001"
   },
   {
-    "timestamp": "2026-08-28T12:00:00",
+    "timestamp": "2026-08-29T15:15:40.752178",
     "bus_id": "BUS-001",
     "event_type": "object_detection",
-    "latitude": 19.076,
-    "longitude": 72.8777,
+    "latitude": 19.07602,
+    "longitude": 72.87772000000001,
     "objects": [
-      "car",
-      "person"
+      "stop sign"
     ],
-    "road_defects": [
-      "pothole"
-    ],
-    "location": "19.076, 72.8777"
+    "road_defects": [],
+    "location": "19.07602, 72.87772000000001"
   },
   {
-    "timestamp": "2026-08-28T12:00:00",
+    "timestamp": "2026-08-29T15:15:45.939626",
     "bus_id": "BUS-001",
     "event_type": "object_detection",
-    "latitude": 19.076,
-    "longitude": 72.8777,
+    "latitude": 19.07603,
+    "longitude": 72.87773000000001,
     "objects": [
-      "car",
-      "person"
+      "stop sign"
     ],
-    "road_defects": [
-      "pothole"
-    ],
-    "location": "19.076, 72.8777"
+    "road_defects": [],
+    "location": "19.07603, 72.87773000000001"
   },
   {
-    "timestamp": "2026-08-29T12:23:54.545159",
+    "timestamp": "2026-08-29T15:15:51.170853",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07604,
+    "longitude": 72.87774000000002,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07604, 72.87774000000002"
+  },
+  {
+    "timestamp": "2026-08-29T15:15:56.370343",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07605,
+    "longitude": 72.87775000000002,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07605, 72.87775000000002"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:01.569566",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07606,
+    "longitude": 72.87776000000002,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07606, 72.87776000000002"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:06.755911",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076069999999998,
+    "longitude": 72.87777000000003,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076069999999998, 72.87777000000003"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:11.965503",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076079999999997,
+    "longitude": 72.87778000000003,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076079999999997, 72.87778000000003"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:17.189472",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076089999999997,
+    "longitude": 72.87779000000003,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076089999999997, 72.87779000000003"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:22.419836",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076099999999997,
+    "longitude": 72.87780000000004,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076099999999997, 72.87780000000004"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:27.615257",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076109999999996,
+    "longitude": 72.87781000000004,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076109999999996, 72.87781000000004"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:32.803575",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076119999999996,
+    "longitude": 72.87782000000004,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076119999999996, 72.87782000000004"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:37.986698",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076129999999996,
+    "longitude": 72.87783000000005,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076129999999996, 72.87783000000005"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:43.161132",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076139999999995,
+    "longitude": 72.87784000000005,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076139999999995, 72.87784000000005"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:48.349362",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076149999999995,
+    "longitude": 72.87785000000005,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076149999999995, 72.87785000000005"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:53.530766",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076159999999994,
+    "longitude": 72.87786000000006,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076159999999994, 72.87786000000006"
+  },
+  {
+    "timestamp": "2026-08-29T15:16:58.740890",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076169999999994,
+    "longitude": 72.87787000000006,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076169999999994, 72.87787000000006"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:03.937805",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076179999999994,
+    "longitude": 72.87788000000006,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076179999999994, 72.87788000000006"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:09.106995",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076189999999993,
+    "longitude": 72.87789000000006,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076189999999993, 72.87789000000006"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:14.272900",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076199999999993,
+    "longitude": 72.87790000000007,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076199999999993, 72.87790000000007"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:19.506556",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076209999999993,
+    "longitude": 72.87791000000007,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076209999999993, 72.87791000000007"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:24.695929",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076219999999992,
+    "longitude": 72.87792000000007,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076219999999992, 72.87792000000007"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:29.943338",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076229999999992,
+    "longitude": 72.87793000000008,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076229999999992, 72.87793000000008"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:35.177799",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07623999999999,
+    "longitude": 72.87794000000008,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07623999999999, 72.87794000000008"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:40.379985",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07624999999999,
+    "longitude": 72.87795000000008,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07624999999999, 72.87795000000008"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:45.588719",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07625999999999,
+    "longitude": 72.87796000000009,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07625999999999, 72.87796000000009"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:50.756471",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07626999999999,
+    "longitude": 72.87797000000009,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07626999999999, 72.87797000000009"
+  },
+  {
+    "timestamp": "2026-08-29T15:17:55.966112",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07627999999999,
+    "longitude": 72.8779800000001,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07627999999999, 72.8779800000001"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:01.160489",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07628999999999,
+    "longitude": 72.8779900000001,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07628999999999, 72.8779900000001"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:06.321357",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07629999999999,
+    "longitude": 72.8780000000001,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07629999999999, 72.8780000000001"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:11.529883",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07630999999999,
+    "longitude": 72.8780100000001,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07630999999999, 72.8780100000001"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:16.695143",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07631999999999,
+    "longitude": 72.8780200000001,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07631999999999, 72.8780200000001"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:21.966446",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076329999999988,
+    "longitude": 72.87803000000011,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076329999999988, 72.87803000000011"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:27.191169",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076339999999988,
+    "longitude": 72.87804000000011,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076339999999988, 72.87804000000011"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:32.378075",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076349999999987,
+    "longitude": 72.87805000000012,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076349999999987, 72.87805000000012"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:37.572781",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076359999999987,
+    "longitude": 72.87806000000012,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076359999999987, 72.87806000000012"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:42.803322",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076369999999987,
+    "longitude": 72.87807000000012,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076369999999987, 72.87807000000012"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:48.150785",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076379999999986,
+    "longitude": 72.87808000000012,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076379999999986, 72.87808000000012"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:53.469109",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076389999999986,
+    "longitude": 72.87809000000013,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076389999999986, 72.87809000000013"
+  },
+  {
+    "timestamp": "2026-08-29T15:18:58.779337",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076399999999985,
+    "longitude": 72.87810000000013,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076399999999985, 72.87810000000013"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:04.060501",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076409999999985,
+    "longitude": 72.87811000000013,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076409999999985, 72.87811000000013"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:09.359454",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076419999999985,
+    "longitude": 72.87812000000014,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076419999999985, 72.87812000000014"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:14.669706",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076429999999984,
+    "longitude": 72.87813000000014,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076429999999984, 72.87813000000014"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:20.039849",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076439999999984,
+    "longitude": 72.87814000000014,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076439999999984, 72.87814000000014"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:25.390385",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076449999999983,
+    "longitude": 72.87815000000015,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076449999999983, 72.87815000000015"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:30.711972",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076459999999983,
+    "longitude": 72.87816000000015,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076459999999983, 72.87816000000015"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:36.072080",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076469999999983,
+    "longitude": 72.87817000000015,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076469999999983, 72.87817000000015"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:41.399960",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076479999999982,
+    "longitude": 72.87818000000016,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076479999999982, 72.87818000000016"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:46.741770",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076489999999982,
+    "longitude": 72.87819000000016,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076489999999982, 72.87819000000016"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:52.075122",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07649999999998,
+    "longitude": 72.87820000000016,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07649999999998, 72.87820000000016"
+  },
+  {
+    "timestamp": "2026-08-29T15:19:57.352859",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07650999999998,
+    "longitude": 72.87821000000017,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07650999999998, 72.87821000000017"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:02.691255",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07651999999998,
+    "longitude": 72.87822000000017,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07651999999998, 72.87822000000017"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:08.068001",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07652999999998,
+    "longitude": 72.87823000000017,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07652999999998, 72.87823000000017"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:13.424403",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07653999999998,
+    "longitude": 72.87824000000018,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07653999999998, 72.87824000000018"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:18.755609",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07654999999998,
+    "longitude": 72.87825000000018,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07654999999998, 72.87825000000018"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:24.088560",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07655999999998,
+    "longitude": 72.87826000000018,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07655999999998, 72.87826000000018"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:29.439601",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07656999999998,
+    "longitude": 72.87827000000019,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07656999999998, 72.87827000000019"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:34.839895",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07657999999998,
+    "longitude": 72.87828000000019,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07657999999998, 72.87828000000019"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:40.147666",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076589999999978,
+    "longitude": 72.87829000000019,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076589999999978, 72.87829000000019"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:45.455647",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076599999999978,
+    "longitude": 72.8783000000002,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076599999999978, 72.8783000000002"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:50.769180",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076609999999977,
+    "longitude": 72.8783100000002,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076609999999977, 72.8783100000002"
+  },
+  {
+    "timestamp": "2026-08-29T15:20:56.133500",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076619999999977,
+    "longitude": 72.8783200000002,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076619999999977, 72.8783200000002"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:01.451553",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076629999999977,
+    "longitude": 72.8783300000002,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076629999999977, 72.8783300000002"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:06.754744",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076639999999976,
+    "longitude": 72.87834000000021,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076639999999976, 72.87834000000021"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:12.048761",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076649999999976,
+    "longitude": 72.87835000000021,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076649999999976, 72.87835000000021"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:17.379955",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076659999999976,
+    "longitude": 72.87836000000021,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076659999999976, 72.87836000000021"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:22.697566",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076669999999975,
+    "longitude": 72.87837000000022,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076669999999975, 72.87837000000022"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:28.048165",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076679999999975,
+    "longitude": 72.87838000000022,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076679999999975, 72.87838000000022"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:33.363048",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076689999999974,
+    "longitude": 72.87839000000022,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076689999999974, 72.87839000000022"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:38.670580",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076699999999974,
+    "longitude": 72.87840000000023,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076699999999974, 72.87840000000023"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:44.038487",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076709999999974,
+    "longitude": 72.87841000000023,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076709999999974, 72.87841000000023"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:49.335404",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076719999999973,
+    "longitude": 72.87842000000023,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076719999999973, 72.87842000000023"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:54.646310",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076729999999973,
+    "longitude": 72.87843000000024,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076729999999973, 72.87843000000024"
+  },
+  {
+    "timestamp": "2026-08-29T15:21:59.981365",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076739999999972,
+    "longitude": 72.87844000000024,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076739999999972, 72.87844000000024"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:05.306596",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076749999999972,
+    "longitude": 72.87845000000024,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076749999999972, 72.87845000000024"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:10.635890",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07675999999997,
+    "longitude": 72.87846000000025,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07675999999997, 72.87846000000025"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:15.962899",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07676999999997,
+    "longitude": 72.87847000000025,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07676999999997, 72.87847000000025"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:21.270098",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07677999999997,
+    "longitude": 72.87848000000025,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07677999999997, 72.87848000000025"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:26.585133",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07678999999997,
+    "longitude": 72.87849000000026,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07678999999997, 72.87849000000026"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:31.962901",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07679999999997,
+    "longitude": 72.87850000000026,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07679999999997, 72.87850000000026"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:37.271909",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07680999999997,
+    "longitude": 72.87851000000026,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07680999999997, 72.87851000000026"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:42.631924",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07681999999997,
+    "longitude": 72.87852000000026,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07681999999997, 72.87852000000026"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:47.955936",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07682999999997,
+    "longitude": 72.87853000000027,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07682999999997, 72.87853000000027"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:53.288021",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07683999999997,
+    "longitude": 72.87854000000027,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07683999999997, 72.87854000000027"
+  },
+  {
+    "timestamp": "2026-08-29T15:22:58.562717",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07684999999997,
+    "longitude": 72.87855000000027,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07684999999997, 72.87855000000027"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:03.879993",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076859999999968,
+    "longitude": 72.87856000000028,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076859999999968, 72.87856000000028"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:09.167534",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076869999999968,
+    "longitude": 72.87857000000028,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076869999999968, 72.87857000000028"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:14.504020",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076879999999967,
+    "longitude": 72.87858000000028,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076879999999967, 72.87858000000028"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:19.833092",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076889999999967,
+    "longitude": 72.87859000000029,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076889999999967, 72.87859000000029"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:25.175191",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076899999999966,
+    "longitude": 72.87860000000029,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076899999999966, 72.87860000000029"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:30.515274",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076909999999966,
+    "longitude": 72.8786100000003,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076909999999966, 72.8786100000003"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:35.803114",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076919999999966,
+    "longitude": 72.8786200000003,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076919999999966, 72.8786200000003"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:41.109083",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076929999999965,
+    "longitude": 72.8786300000003,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076929999999965, 72.8786300000003"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:46.467401",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076939999999965,
+    "longitude": 72.8786400000003,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076939999999965, 72.8786400000003"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:51.813729",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076949999999965,
+    "longitude": 72.8786500000003,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076949999999965, 72.8786500000003"
+  },
+  {
+    "timestamp": "2026-08-29T15:23:57.130667",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076959999999964,
+    "longitude": 72.87866000000031,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076959999999964, 72.87866000000031"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:02.494170",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076969999999964,
+    "longitude": 72.87867000000031,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076969999999964, 72.87867000000031"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:07.841269",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076979999999963,
+    "longitude": 72.87868000000032,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076979999999963, 72.87868000000032"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:13.191313",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076989999999963,
+    "longitude": 72.87869000000032,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076989999999963, 72.87869000000032"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:18.555964",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076999999999963,
+    "longitude": 72.87870000000032,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.076999999999963, 72.87870000000032"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:23.965859",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077009999999962,
+    "longitude": 72.87871000000032,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077009999999962, 72.87871000000032"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:29.297768",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077019999999962,
+    "longitude": 72.87872000000033,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077019999999962, 72.87872000000033"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:34.638872",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07702999999996,
+    "longitude": 72.87873000000033,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07702999999996, 72.87873000000033"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:39.996236",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07703999999996,
+    "longitude": 72.87874000000033,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07703999999996, 72.87874000000033"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:45.358390",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07704999999996,
+    "longitude": 72.87875000000034,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07704999999996, 72.87875000000034"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:50.710233",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07705999999996,
+    "longitude": 72.87876000000034,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07705999999996, 72.87876000000034"
+  },
+  {
+    "timestamp": "2026-08-29T15:24:56.052348",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07706999999996,
+    "longitude": 72.87877000000034,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07706999999996, 72.87877000000034"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:01.402328",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07707999999996,
+    "longitude": 72.87878000000035,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07707999999996, 72.87878000000035"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:06.686880",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07708999999996,
+    "longitude": 72.87879000000035,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07708999999996, 72.87879000000035"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:12.009951",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07709999999996,
+    "longitude": 72.87880000000035,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07709999999996, 72.87880000000035"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:17.354459",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07710999999996,
+    "longitude": 72.87881000000036,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07710999999996, 72.87881000000036"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:22.724783",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077119999999958,
+    "longitude": 72.87882000000036,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077119999999958, 72.87882000000036"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:28.052268",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077129999999958,
+    "longitude": 72.87883000000036,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077129999999958, 72.87883000000036"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:33.425322",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077139999999957,
+    "longitude": 72.87884000000037,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077139999999957, 72.87884000000037"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:38.748472",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077149999999957,
+    "longitude": 72.87885000000037,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077149999999957, 72.87885000000037"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:44.096144",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077159999999957,
+    "longitude": 72.87886000000037,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077159999999957, 72.87886000000037"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:49.432577",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077169999999956,
+    "longitude": 72.87887000000038,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077169999999956, 72.87887000000038"
+  },
+  {
+    "timestamp": "2026-08-29T15:25:54.770434",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077179999999956,
+    "longitude": 72.87888000000038,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077179999999956, 72.87888000000038"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:00.138601",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077189999999955,
+    "longitude": 72.87889000000038,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077189999999955, 72.87889000000038"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:05.514644",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077199999999955,
+    "longitude": 72.87890000000039,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077199999999955, 72.87890000000039"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:10.869401",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077209999999955,
+    "longitude": 72.87891000000039,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077209999999955, 72.87891000000039"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:16.230749",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077219999999954,
+    "longitude": 72.87892000000039,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077219999999954, 72.87892000000039"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:21.630797",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077229999999954,
+    "longitude": 72.8789300000004,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077229999999954, 72.8789300000004"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:27.136294",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077239999999954,
+    "longitude": 72.8789400000004,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077239999999954, 72.8789400000004"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:32.509046",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077249999999953,
+    "longitude": 72.8789500000004,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077249999999953, 72.8789500000004"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:37.838953",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077259999999953,
+    "longitude": 72.8789600000004,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077259999999953, 72.8789600000004"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:43.325558",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077269999999952,
+    "longitude": 72.87897000000041,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077269999999952, 72.87897000000041"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:48.661606",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077279999999952,
+    "longitude": 72.87898000000041,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077279999999952, 72.87898000000041"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:54.024489",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07728999999995,
+    "longitude": 72.87899000000041,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07728999999995, 72.87899000000041"
+  },
+  {
+    "timestamp": "2026-08-29T15:26:59.398402",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07729999999995,
+    "longitude": 72.87900000000042,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07729999999995, 72.87900000000042"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:04.765195",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07730999999995,
+    "longitude": 72.87901000000042,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07730999999995, 72.87901000000042"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:10.129729",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07731999999995,
+    "longitude": 72.87902000000042,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07731999999995, 72.87902000000042"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:15.517466",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07732999999995,
+    "longitude": 72.87903000000043,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07732999999995, 72.87903000000043"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:20.877459",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07733999999995,
+    "longitude": 72.87904000000043,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07733999999995, 72.87904000000043"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:26.213728",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07734999999995,
+    "longitude": 72.87905000000043,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07734999999995, 72.87905000000043"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:31.564848",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07735999999995,
+    "longitude": 72.87906000000044,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07735999999995, 72.87906000000044"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:36.930477",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07736999999995,
+    "longitude": 72.87907000000044,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07736999999995, 72.87907000000044"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:42.272903",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07737999999995,
+    "longitude": 72.87908000000044,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07737999999995, 72.87908000000044"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:47.694033",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077389999999948,
+    "longitude": 72.87909000000045,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077389999999948, 72.87909000000045"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:53.036339",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077399999999948,
+    "longitude": 72.87910000000045,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077399999999948, 72.87910000000045"
+  },
+  {
+    "timestamp": "2026-08-29T15:27:58.404822",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077409999999947,
+    "longitude": 72.87911000000045,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077409999999947, 72.87911000000045"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:03.833765",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077419999999947,
+    "longitude": 72.87912000000046,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077419999999947, 72.87912000000046"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:09.188148",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077429999999946,
+    "longitude": 72.87913000000046,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077429999999946, 72.87913000000046"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:14.563909",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077439999999946,
+    "longitude": 72.87914000000046,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077439999999946, 72.87914000000046"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:19.906454",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077449999999946,
+    "longitude": 72.87915000000046,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077449999999946, 72.87915000000046"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:25.272300",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077459999999945,
+    "longitude": 72.87916000000047,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077459999999945, 72.87916000000047"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:30.651271",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077469999999945,
+    "longitude": 72.87917000000047,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077469999999945, 72.87917000000047"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:36.007353",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077479999999944,
+    "longitude": 72.87918000000047,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077479999999944, 72.87918000000047"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:41.321204",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077489999999944,
+    "longitude": 72.87919000000048,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077489999999944, 72.87919000000048"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:46.676025",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077499999999944,
+    "longitude": 72.87920000000048,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077499999999944, 72.87920000000048"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:52.061972",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077509999999943,
+    "longitude": 72.87921000000048,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077509999999943, 72.87921000000048"
+  },
+  {
+    "timestamp": "2026-08-29T15:28:57.428075",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077519999999943,
+    "longitude": 72.87922000000049,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077519999999943, 72.87922000000049"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:02.817327",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077529999999943,
+    "longitude": 72.87923000000049,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077529999999943, 72.87923000000049"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:08.188093",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077539999999942,
+    "longitude": 72.8792400000005,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077539999999942, 72.8792400000005"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:13.526578",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077549999999942,
+    "longitude": 72.8792500000005,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077549999999942, 72.8792500000005"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:18.915475",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07755999999994,
+    "longitude": 72.8792600000005,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07755999999994, 72.8792600000005"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:24.243435",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07756999999994,
+    "longitude": 72.8792700000005,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07756999999994, 72.8792700000005"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:29.895635",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07757999999994,
+    "longitude": 72.8792800000005,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07757999999994, 72.8792800000005"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:35.241236",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07758999999994,
+    "longitude": 72.87929000000051,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07758999999994, 72.87929000000051"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:40.657048",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07759999999994,
+    "longitude": 72.87930000000051,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07759999999994, 72.87930000000051"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:46.002650",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07760999999994,
+    "longitude": 72.87931000000052,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07760999999994, 72.87931000000052"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:51.413979",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07761999999994,
+    "longitude": 72.87932000000052,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07761999999994, 72.87932000000052"
+  },
+  {
+    "timestamp": "2026-08-29T15:29:56.775794",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07762999999994,
+    "longitude": 72.87933000000052,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07762999999994, 72.87933000000052"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:02.301433",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07763999999994,
+    "longitude": 72.87934000000052,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07763999999994, 72.87934000000052"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:07.602043",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077649999999938,
+    "longitude": 72.87935000000053,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077649999999938, 72.87935000000053"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:12.956697",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077659999999938,
+    "longitude": 72.87936000000053,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077659999999938, 72.87936000000053"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:18.322585",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077669999999937,
+    "longitude": 72.87937000000053,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077669999999937, 72.87937000000053"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:23.633691",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077679999999937,
+    "longitude": 72.87938000000054,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077679999999937, 72.87938000000054"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:28.955937",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077689999999937,
+    "longitude": 72.87939000000054,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077689999999937, 72.87939000000054"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:34.307555",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077699999999936,
+    "longitude": 72.87940000000054,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077699999999936, 72.87940000000054"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:39.585611",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077709999999936,
+    "longitude": 72.87941000000055,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077709999999936, 72.87941000000055"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:44.905199",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077719999999935,
+    "longitude": 72.87942000000055,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077719999999935, 72.87942000000055"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:50.268403",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077729999999935,
+    "longitude": 72.87943000000055,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077729999999935, 72.87943000000055"
+  },
+  {
+    "timestamp": "2026-08-29T15:30:55.637696",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077739999999935,
+    "longitude": 72.87944000000056,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077739999999935, 72.87944000000056"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:00.980153",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077749999999934,
+    "longitude": 72.87945000000056,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077749999999934, 72.87945000000056"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:06.369008",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077759999999934,
+    "longitude": 72.87946000000056,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077759999999934, 72.87946000000056"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:11.717002",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077769999999934,
+    "longitude": 72.87947000000057,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077769999999934, 72.87947000000057"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:17.060688",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077779999999933,
+    "longitude": 72.87948000000057,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077779999999933, 72.87948000000057"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:22.420987",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077789999999933,
+    "longitude": 72.87949000000057,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077789999999933, 72.87949000000057"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:27.768054",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077799999999932,
+    "longitude": 72.87950000000058,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077799999999932, 72.87950000000058"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:33.124839",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077809999999932,
+    "longitude": 72.87951000000058,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077809999999932, 72.87951000000058"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:38.471481",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07781999999993,
+    "longitude": 72.87952000000058,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07781999999993, 72.87952000000058"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:43.817615",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07782999999993,
+    "longitude": 72.87953000000059,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07782999999993, 72.87953000000059"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:49.143909",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07783999999993,
+    "longitude": 72.87954000000059,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07783999999993, 72.87954000000059"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:54.523338",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07784999999993,
+    "longitude": 72.87955000000059,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07784999999993, 72.87955000000059"
+  },
+  {
+    "timestamp": "2026-08-29T15:31:59.855195",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07785999999993,
+    "longitude": 72.8795600000006,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07785999999993, 72.8795600000006"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:05.191804",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07786999999993,
+    "longitude": 72.8795700000006,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07786999999993, 72.8795700000006"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:10.541704",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07787999999993,
+    "longitude": 72.8795800000006,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07787999999993, 72.8795800000006"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:15.873416",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07788999999993,
+    "longitude": 72.8795900000006,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07788999999993, 72.8795900000006"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:21.235314",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07789999999993,
+    "longitude": 72.87960000000061,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07789999999993, 72.87960000000061"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:26.543753",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077909999999928,
+    "longitude": 72.87961000000061,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077909999999928, 72.87961000000061"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:31.851485",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077919999999928,
+    "longitude": 72.87962000000061,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077919999999928, 72.87962000000061"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:37.163306",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077929999999927,
+    "longitude": 72.87963000000062,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077929999999927, 72.87963000000062"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:42.500639",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077939999999927,
+    "longitude": 72.87964000000062,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077939999999927, 72.87964000000062"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:47.849900",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077949999999927,
+    "longitude": 72.87965000000062,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077949999999927, 72.87965000000062"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:53.192502",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077959999999926,
+    "longitude": 72.87966000000063,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077959999999926, 72.87966000000063"
+  },
+  {
+    "timestamp": "2026-08-29T15:32:58.556388",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077969999999926,
+    "longitude": 72.87967000000063,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077969999999926, 72.87967000000063"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:03.883638",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077979999999926,
+    "longitude": 72.87968000000063,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077979999999926, 72.87968000000063"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:09.235278",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077989999999925,
+    "longitude": 72.87969000000064,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077989999999925, 72.87969000000064"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:14.620083",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.077999999999925,
+    "longitude": 72.87970000000064,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.077999999999925, 72.87970000000064"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:19.983863",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078009999999924,
+    "longitude": 72.87971000000064,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078009999999924, 72.87971000000064"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:25.351512",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078019999999924,
+    "longitude": 72.87972000000065,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078019999999924, 72.87972000000065"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:30.708640",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078029999999924,
+    "longitude": 72.87973000000065,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078029999999924, 72.87973000000065"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:36.050442",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078039999999923,
+    "longitude": 72.87974000000065,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078039999999923, 72.87974000000065"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:41.390041",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078049999999923,
+    "longitude": 72.87975000000066,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078049999999923, 72.87975000000066"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:46.754347",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078059999999923,
+    "longitude": 72.87976000000066,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078059999999923, 72.87976000000066"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:52.157321",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078069999999922,
+    "longitude": 72.87977000000066,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078069999999922, 72.87977000000066"
+  },
+  {
+    "timestamp": "2026-08-29T15:33:57.520568",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07807999999992,
+    "longitude": 72.87978000000066,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07807999999992, 72.87978000000066"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:03.200865",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07808999999992,
+    "longitude": 72.87979000000067,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07808999999992, 72.87979000000067"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:08.570295",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07809999999992,
+    "longitude": 72.87980000000067,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07809999999992, 72.87980000000067"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:13.913733",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07810999999992,
+    "longitude": 72.87981000000067,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07810999999992, 72.87981000000067"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:19.287582",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07811999999992,
+    "longitude": 72.87982000000068,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07811999999992, 72.87982000000068"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:24.595834",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07812999999992,
+    "longitude": 72.87983000000068,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07812999999992, 72.87983000000068"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:29.939670",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07813999999992,
+    "longitude": 72.87984000000068,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07813999999992, 72.87984000000068"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:35.274082",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07814999999992,
+    "longitude": 72.87985000000069,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07814999999992, 72.87985000000069"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:40.631480",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07815999999992,
+    "longitude": 72.87986000000069,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07815999999992, 72.87986000000069"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:45.979689",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07816999999992,
+    "longitude": 72.8798700000007,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07816999999992, 72.8798700000007"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:51.399090",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078179999999918,
+    "longitude": 72.8798800000007,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078179999999918, 72.8798800000007"
+  },
+  {
+    "timestamp": "2026-08-29T15:34:56.766832",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078189999999918,
+    "longitude": 72.8798900000007,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078189999999918, 72.8798900000007"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:02.114614",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078199999999917,
+    "longitude": 72.8799000000007,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078199999999917, 72.8799000000007"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:07.484368",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078209999999917,
+    "longitude": 72.8799100000007,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078209999999917, 72.8799100000007"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:12.841842",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078219999999916,
+    "longitude": 72.87992000000071,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078219999999916, 72.87992000000071"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:18.216467",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078229999999916,
+    "longitude": 72.87993000000071,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078229999999916, 72.87993000000071"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:23.541271",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078239999999916,
+    "longitude": 72.87994000000072,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078239999999916, 72.87994000000072"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:28.936108",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078249999999915,
+    "longitude": 72.87995000000072,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078249999999915, 72.87995000000072"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:34.250245",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078259999999915,
+    "longitude": 72.87996000000072,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078259999999915, 72.87996000000072"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:39.613470",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078269999999915,
+    "longitude": 72.87997000000072,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078269999999915, 72.87997000000072"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:44.987676",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078279999999914,
+    "longitude": 72.87998000000073,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078279999999914, 72.87998000000073"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:50.393144",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078289999999914,
+    "longitude": 72.87999000000073,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078289999999914, 72.87999000000073"
+  },
+  {
+    "timestamp": "2026-08-29T15:35:55.742148",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078299999999913,
+    "longitude": 72.88000000000073,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078299999999913, 72.88000000000073"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:01.091115",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078309999999913,
+    "longitude": 72.88001000000074,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078309999999913, 72.88001000000074"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:06.471916",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078319999999913,
+    "longitude": 72.88002000000074,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078319999999913, 72.88002000000074"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:11.326946",
     "bus_id": "CITIZEN-001",
     "event_type": "manual_report",
     "latitude": 19.076,
@@ -55,5 +2794,149 @@
       "mild"
     ],
     "location": "19.076, 72.8777"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:11.832299",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078329999999912,
+    "longitude": 72.88003000000074,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078329999999912, 72.88003000000074"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:17.204109",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078339999999912,
+    "longitude": 72.88004000000075,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078339999999912, 72.88004000000075"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:22.562922",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07834999999991,
+    "longitude": 72.88005000000075,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07834999999991, 72.88005000000075"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:27.951851",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07835999999991,
+    "longitude": 72.88006000000075,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07835999999991, 72.88006000000075"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:33.305567",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07836999999991,
+    "longitude": 72.88007000000076,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07836999999991, 72.88007000000076"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:38.644952",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07837999999991,
+    "longitude": 72.88008000000076,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07837999999991, 72.88008000000076"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:43.976040",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07838999999991,
+    "longitude": 72.88009000000076,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07838999999991, 72.88009000000076"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:49.285538",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07839999999991,
+    "longitude": 72.88010000000077,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07839999999991, 72.88010000000077"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:54.695535",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07840999999991,
+    "longitude": 72.88011000000077,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07840999999991, 72.88011000000077"
+  },
+  {
+    "timestamp": "2026-08-29T15:36:59.941055",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07841999999991,
+    "longitude": 72.88012000000077,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07841999999991, 72.88012000000077"
+  },
+  {
+    "timestamp": "2026-08-29T15:37:05.166082",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.07842999999991,
+    "longitude": 72.88013000000078,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.07842999999991, 72.88013000000078"
+  },
+  {
+    "timestamp": "2026-08-29T15:37:10.365262",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.078439999999908,
+    "longitude": 72.88014000000078,
+    "objects": [
+      "stop sign"
+    ],
+    "road_defects": [],
+    "location": "19.078439999999908, 72.88014000000078"
   }
 ]
