@@ -2938,5 +2938,20 @@
     ],
     "road_defects": [],
     "location": "19.078439999999908, 72.88014000000078"
+  },
+  {
+    "timestamp": "2026-08-29T12:00:00",
+    "bus_id": "BUS-001",
+    "event_type": "object_detection",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "objects": [
+      "car",
+      "person"
+    ],
+    "road_defects": [
+      "pothole"
+    ],
+    "location": "19.076, 72.8777"
   }
 ]
