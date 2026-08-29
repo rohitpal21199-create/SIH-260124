@@ -43,5 +43,17 @@
       "pothole"
     ],
     "location": "19.076, 72.8777"
+  },
+  {
+    "timestamp": "2026-08-29T12:23:54.545159",
+    "bus_id": "CITIZEN-001",
+    "event_type": "manual_report",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "objects": [],
+    "road_defects": [
+      "mild"
+    ],
+    "location": "19.076, 72.8777"
   }
 ]

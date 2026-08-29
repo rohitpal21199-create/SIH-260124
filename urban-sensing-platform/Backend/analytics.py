@@ -1,87 +1,55 @@
 """
-Analytics Engine - Data Analysis & Insights
+Analytics Engine - Without Pandas
 """
 
-import pandas as pd
-from datetime import datetime
-from typing import List, Dict
 import json
+from datetime import datetime
 
 class Analytics:
     def __init__(self, database):
         self.db = database
     
-    def get_daily_summary(self, days: int = 7) -> Dict:
-        """Get daily summary for last N days"""
+    def get_daily_summary(self, days: int = 7):
         events = self.db.read_events()
-        
         if not events:
             return {}
         
-        df = pd.DataFrame(events)
-        df['date'] = pd.to_datetime(df['timestamp']).dt.date
-        
-        daily_stats = df.groupby('date').agg({
-            'bus_id': 'nunique',
-            'objects': lambda x: sum(len(obj) for obj in x),
-            'road_defects': lambda x: sum(len(defect) for defect in x)
-        }).reset_index()
+        date_counts = {}
+        for e in events[-100:]:
+            date = e.get('timestamp', '')[:10]
+            if date:
+                date_counts[date] = date_counts.get(date, 0) + 1
         
         return {
-            'dates': [str(d) for d in daily_stats['date'].tolist()],
-            'bus_count': daily_stats['bus_id'].tolist(),
-            'objects_count': daily_stats['objects'].tolist(),
-            'defects_count': daily_stats['road_defects'].tolist()
+            'dates': list(date_counts.keys()),
+            'counts': list(date_counts.values())
         }
     
-    def get_hourly_pattern(self) -> Dict:
-        """Get hourly detection pattern"""
+    def get_hourly_pattern(self):
         events = self.db.read_events()
-        
         if not events:
-            return {}
-        
-        hours = []
-        for e in events:
-            try:
-                hour = datetime.fromisoformat(e['timestamp']).hour
-                hours.append(hour)
-            except:
-                continue
-        
-        if not hours:
             return {}
         
         hour_counts = {}
         for h in range(24):
-            hour_counts[h] = hours.count(h)
+            hour_counts[h] = 0
+        
+        for e in events:
+            try:
+                hour = datetime.fromisoformat(e.get('timestamp', '')).hour
+                hour_counts[hour] = hour_counts.get(hour, 0) + 1
+            except:
+                continue
         
         return {
             'hours': list(hour_counts.keys()),
             'counts': list(hour_counts.values())
         }
     
-    def get_defect_heatmap(self) -> Dict:
-        """Get defect locations for heatmap"""
-        defects = self.db.get_defects()
-        
-        locations = []
-        for d in defects:
-            loc = d.get('location', '').split(',')
-            if len(loc) == 2:
-                try:
-                    locations.append({
-                        'lat': float(loc[0]),
-                        'lon': float(loc[1]),
-                        'type': d.get('type', ['unknown'])[0] if isinstance(d.get('type'), list) else 'unknown'
-                    })
-                except:
-                    continue
-        
-        return locations
+    def get_defect_heatmap(self):
+        return self.db.get_defects()
     
-    def get_insights(self) -> Dict:
-        """Generate insights"""
+    def get_insights(self):
         stats = self.db.get_stats()
         object_counts = self.db.get_objects_count()
         
@@ -93,11 +61,16 @@ class Analytics:
             'last_update': stats['timestamp']
         }
     
-    def export_csv(self, filename: str = "data/export.csv"):
-        """Export events to CSV"""
+    def export_csv(self, filename="data/export.csv"):
         events = self.db.read_events()
-        df = pd.DataFrame(events)
-        df.to_csv(filename, index=False)
+        if not events:
+            return filename
+        
+        import csv
+        with open(filename, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=events[0].keys())
+            writer.writeheader()
+            writer.writerows(events)
         return filename
 
 # Test
